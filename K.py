@@ -1,2 +1,1 @@
-import numpy as np
-
+from K_fuction import *
